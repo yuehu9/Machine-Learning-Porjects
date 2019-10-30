@@ -23,5 +23,6 @@ Intuitively, gamma defines how far the influence of a single training example re
 ## Structures
 - `bonnerlib.py` Helper package for visualization.
 - `SVM_moonDataset.ipynb` Contains data analysis example of training SVM on moon dataset.
-- `Documentation for main functions.pdf` Contains the pseudocode for main functions developed in the model.
-- `/cancer_datasets/` contains two datasets for training, validation and testing, with respective percentage of splitting.
+
+reference:
+https://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html
